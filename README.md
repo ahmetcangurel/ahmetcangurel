@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my open source projects are available at [https://github.com/ahmetcangurel](https://github.com/ahmetcangurel)
 
-- 📝 Although not regularly, I try to write articles from time to time [Go to twitter!](Go to twitter!)
+- 📝 Although not regularly, I try to write articles from time to time [Go to twitter!](https://twitter.com/cangureltxt)
 
-- 💬 Ask me about **Html, Css, React Native**
+- 💬 Ask me about **Html, Css, JS, React Native**
 
 - 📫 How to reach me **cangureliletisim@gmail.com**
 
