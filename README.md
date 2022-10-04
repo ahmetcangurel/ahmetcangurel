@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/acangurel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acangurel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17934393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17934393" height="30" width="40" /></a>
 <a href="https://instagram.com/cangurel.raw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cangurel.raw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/can gürel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="can gürel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCjY1qOeD8VJdeOasD3HmcUQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="can gürel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
