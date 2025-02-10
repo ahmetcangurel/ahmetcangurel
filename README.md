@@ -1,22 +1,10 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A React Native Developer from Turkiye</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcangurel&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcangurel" /> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/cangureltxt" target="blank"><img src="https://img.shields.io/twitter/follow/cangureltxt?logo=twitter&style=for-the-badge" alt="cangureltxt" /></a> </p>
 
-- 🔭 I’m currently working on **freelance**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my open source projects are available at [https://github.com/ahmetcangurel](https://github.com/ahmetcangurel)
-
-- 📝 Although not regularly, I try to write articles from time to time [Go to twitter!](https://twitter.com/cangureltxt)
-
-- 💬 Ask me about **Html, Css, JS, React Native**
-
-- 📫 How to reach me **cangureliletisim@gmail.com**
-
+- 📝 Although not regularly, I try to write articles from time to time [Go to medium!](https://medium.com/@cangurel.dev)
+ 
 - ⚡ Fun fact **Google solves everything :)**
 
 <h3 align="left">Connect with me:</h3>
